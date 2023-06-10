@@ -87,9 +87,7 @@
 <!-- Begin Youtube Buttons -->
 <!-- Resource/Reference:  https://github.com/DenverCoder1/custom-icon-badges -->
 <div class="youtube buttons" align="center">
-    <a href="https://www.youtube.com/@pansho_dev"  target="_blank">
-      
-    </a> 
+    <a href="https://www.youtube.com/@pansho_dev"  target="_blank"></a> 
 </div>
 <br>
 <!-- End Youtube Buttons -->
